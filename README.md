@@ -1,2 +1,4 @@
-# LETS BEGIN
+# LETS BEGIN ! 
+
+Git is harder then expected though 
 
