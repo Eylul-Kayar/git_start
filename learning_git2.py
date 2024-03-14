@@ -37,13 +37,10 @@ def Tensor_Gen(*args):
 
 if __name__ == "__main__":
 
-   # A_Function("it is just a function")
    random_image_tensor = Tensor_Gen(3,8,8)
+   A_Function("it is just a function")
+   Image_generator = Generetive_NN()
 
-if __name__ == "__main__":
-
-    A_Function("it is just a function")
-    Image_generator = Generetive_NN()
 
 
 
