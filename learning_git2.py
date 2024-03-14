@@ -2,6 +2,8 @@
 import torch
 from PIL import Image
 import torchvision.transforms as transform
+
+
 class Image_Loader:
     def __init__(self,path):
         self.path = path
@@ -18,6 +20,7 @@ class Image_Loader:
 
 def Tensor_Gen(*args):
     return torch.rand(args[0],args[1],args[2])
+
 
 if __name__ == "__main__":
 
